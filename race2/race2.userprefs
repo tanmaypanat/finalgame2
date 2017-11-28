@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\sceneswitch.cs">
+    <Files>
+      <File FileName="Assets\script\coll.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\health.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\makob.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\countdown.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\helpmake.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\laptime.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\oppshooter.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\shoothelper.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\minecoll.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\fulltrig.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\halftrig.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\sceneswitch.cs" Line="11" Column="36" />
+      <File FileName="Assets\script\rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\healthupp.cs" Line="25" Column="1" />
+      <File FileName="Assets\script\manaup.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\cameraa.cs" Line="18" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
